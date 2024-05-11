@@ -1,15 +1,14 @@
-.student{
-    margin: 10px;
-    box-shadow: -0px -25px 10px rgba(0, 0, 0, 0.164); 
-    margin-top: 20px;
-    border: 1px solid #8f8f8f62;
+.Login{
+    background-color: greenyellow;
+    display: inline;
+    padding: 15px;
     border-radius: 5px;
-    padding: 10px;
-    padding-left: 20px;
-    border: none;
-    font-weight: bold;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    min-width: 300px;
-    display: inline-block;
-}
 
+}
+.error{
+    background-color: rgb(255, 47, 47);
+    color: white;
+    display: inline;
+    padding: 15px;
+    border-radius: 5px;
+}

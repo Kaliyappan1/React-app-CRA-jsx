@@ -9,5 +9,7 @@
     border: none;
     font-weight: bold;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    min-width: 300px;
+    display: inline-block;
 }
 

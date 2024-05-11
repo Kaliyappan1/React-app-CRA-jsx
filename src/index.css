@@ -1,37 +1,9 @@
-*{
-    padding: 0;
-    margin: 0;
-}
-.card{
-    border: 1px solid rgb(197, 197, 197);
-    max-width: 250px;
-    max-height: fit-content;
+.btn {
+    width: 200px;
+    height: 75px;
+    background-color: red;
+    color: white;
+    font-size: 40px;
+    border: none;
     border-radius: 10px;
-    box-shadow: 5px 5px 5px hsla(0, 100%, 33%, 0.11);
-    padding: 20px;
-    margin: 10px;
-    text-align: center;
-    display: inline-block;
-}
-.cardimg{
-    border-radius: 100%;
-    box-shadow: 1px 5px 5px rgba(135, 24, 187, 0.349);
-    max-width: 150px;
-    height: auto;
-    margin-bottom: 10px;
-
-}
-.cardtitle{
-    font-size: 35px;
-    letter-spacing: 1px;
-    padding: 5px;
-    font-family:Georgia, 'Times New Roman', Times, serif;
-    color: blue;
-}
-.cardtext{
-    font-size: 15px;
-    letter-spacing: 1px;
-    padding: 5px;
-    font-family:Georgia, 'Times New Roman', Times, serif;
-    color: rgba(0, 0, 0, 0.589);
 }

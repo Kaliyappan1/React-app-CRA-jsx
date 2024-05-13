@@ -1,6 +1,6 @@
-import Counter from './useState'
+import Input from './UseStateEvent'
 function App() {
-    return <Counter/>
+    return <Input/>
 }
 
 export default App;

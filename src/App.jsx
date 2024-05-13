@@ -1,6 +1,6 @@
-import LoginGreetings from "./LoginGreetings";
+import List from './list'
 function App() {
-  return <LoginGreetings Login={true}/>
+    return <List/>
 }
 
 export default App;

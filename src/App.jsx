@@ -1,6 +1,6 @@
-import List from './list'
+import Counter from './useState'
 function App() {
-    return <List/>
+    return <Counter/>
 }
 
 export default App;

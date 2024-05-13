@@ -1,0 +1,26 @@
+.container{
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    font-family: fantasy;
+}
+.container button {
+    margin: 5px;
+    width: 10em;
+    height: 4em;
+    font-size: 13px;
+    border: none;
+    background-color: hsl(208, 100%, 89%);
+    border-radius: 7px;
+    cursor: pointer;
+}
+.container button:hover{
+    background-color: hsl(208, 100%, 82%);
+    scale: 1.1;
+}
+.Count-Container{
+    font-size: 7em;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}

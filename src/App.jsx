@@ -1,6 +1,6 @@
-import Input from './UseStateEvent'
+import AddProducts from './Addproducts'
 function App() {
-    return <Input/>
+    return <AddProducts/>
 }
 
 export default App;
